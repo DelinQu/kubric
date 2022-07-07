@@ -1,3 +1,4 @@
+mkdir output
 mkdir output/gs
 mkdir output/rs
 
